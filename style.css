@@ -1,0 +1,20 @@
+#qw{
+    height: 100px;
+    width: 1450px;
+    background-color: #00539CFF;
+}
+div{
+    height: 300px;
+    width: 1450px;
+    background-color: #FCF951FF;
+    color: white;
+    position: relative;
+    top: 50px;
+    border-radius: 25px;
+}
+h1{
+    position: relative;
+    top: 100px;
+    color: white;
+    float:right;
+}
